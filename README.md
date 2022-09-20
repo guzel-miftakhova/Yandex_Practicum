@@ -1,4 +1,4 @@
-# educational_projects:
+# образовательные_проекты:
 Этот репозиторий предназначен для проектов, которые я делала в ходе обучения на курсе [«Аналитик данных»](https://practicum.yandex.ru/data-analyst/) 
 от ![Image](https://media-i.on1.click/0x0/commons/thumb/2/20/Width_1600.png/200px-Width_1600.png).
 
