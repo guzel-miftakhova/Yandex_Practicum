@@ -1,3 +1,4 @@
+
 # educational_projects:
 This repository is intended for projects that I did in the course of training on the course [“Data Analyst”](https://practicum.yandex.ru/data-analyst/)
 from \
