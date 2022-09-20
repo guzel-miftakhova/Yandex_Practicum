@@ -2,7 +2,7 @@
 
 **Статус проекта:** *завершен*
 
-**Использованные библиотеки:** `pandas`, `matplotlib`, `numpy`, `datetime`, `seaborn`, `IPython.display**Выводы по проекту:**`
+**Использованные библиотеки:** `pandas`, `matplotlib`, `numpy`, `datetime`, `seaborn`, `IPython.display`
 
 ### Описание проекта:
 
