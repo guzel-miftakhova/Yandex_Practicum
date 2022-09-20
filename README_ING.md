@@ -1,6 +1,7 @@
+# educational_projects:
 This repository is intended for projects that I did in the course of training on the course [“Data Analyst”](https://practicum.yandex.ru/data-analyst/)
 from \
-![Image](https://media-i.on1.click/0x0/commons/thumb/2/20/Width_1600.png/200px-Width_1600.png).
+![Image](https://s01vlx.storage.yandex.net/rdisk/61e52706d04bf42492b598087ba292ad3a0605136d4f7fbd0b6735868e795bf3/6329bbc5/aMxkKUXuZqrxxhprtBhKYijEp_PXN8bvNX-qaiDwFzoCFlRX9G0ruGYiwBum5sEHTmltk2gmaMdDctp-MQITVA==?uid=35512604&filename=Yandex%20Practicum%20logo.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=35512604&fsize=4109&hid=232b7d6522b68bfc17eb8edf78a2cfee&media_type=image&tknv=v2&etag=3ac4b6635bab34c561876a747cfcb30a&rtoken=laJV2ot4OH4z&force_default=yes&ycrid=na-a2ceff8e5d0783139b8e0bbbe3ecb749-downloader15e&ts=5e91b8d62bb40&s=aa7cfdb589d04f190a1acd4eacc12922b10b08095dd4f2d82dfff0a5d4b9a7c9&pb=U2FsdGVkX19Ebb2Zvq9Abl1Nfj_uabRqNt-iPl-alcJ0YVIev36-16E1Z5qG9PyXGsvNrAQwm11sM91cgWdtJ5DC8bC8cjr3A_vQJ6KrnPA).
 
 The course program is aimed at a smooth study of the skills necessary for the work of an analyst, a consistent increase in the complexity of the topics studied
  and the tools used. This course prepared me to enter the path of data analysis, helped me master the skills necessary for work:
