@@ -203,7 +203,8 @@ In the standalone project of this course, you work with a database that stores i
 
 *During the project were:*
 ___
-- various data unloading using SQL queries was performed.
+- various data unloading using SQL queries was performed;
+- сalculations of business indicators were made using SQL queries.
 
 ## Part 10.1: Advanced SQL
 
@@ -220,8 +221,8 @@ In the standalone project of this course, you work with the StackOverflow databa
 
 *During the project were:*
 ___
-- various data unloading using SQL queries;
-- Calculations of business indicators were made using SQL queries.
+- various data unloading using SQL queries.
+
 
 ## Part 11: Automation
 
