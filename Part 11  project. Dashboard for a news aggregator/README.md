@@ -2,7 +2,7 @@
 
 **Статус проекта:**  *завершен*
 
-**Использованные библиотеки:**  pandas, matplotlib, numpy, sys, sqlalchemy, datetime, seaborn, warnings
+**Использованные библиотеки:**  `pandas`, `matplotlib`, `plotly`, `sqlalchemy`
 
 ### Описание проекта:
 
