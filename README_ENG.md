@@ -255,17 +255,6 @@ ___
 Based on all the data received in the course, a bootcamp project was completed in the field of "mobile applications":
 ___
 
-**Topics covered:**
-1. Metrics and funnels.
-2. Cohort analysis.
-3. Unit economics.
-4. Custom metrics.
-1. Methods and tools for testing hypotheses.
-2. Design of experiments. Seasonality.
-2. Cohort analysis.
-3. A/B testing.
-Presentation of the results of the analytical study.
-Dashboards
 Part 1. **Identification of underperforming call center agents**:
 
  Based on data containing information about call centers and their operators, the most inefficient / effective operators were found, and also checked
