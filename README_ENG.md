@@ -1,8 +1,8 @@
-
 # educational_projects:
 This repository is intended for projects that I did in the course of training on the course [“Data Analyst”](https://practicum.yandex.ru/data-analyst/)
-from \
-![Image](https://s01vlx.storage.yandex.net/rdisk/55c9608015f0a03744508133573ffab528d883342283a2cdbf6efe9127d337e3/6336cf51/aMxkKUXuZqrxxhprtBhKYijEp_PXN8bvNX-qaiDwFzoCFlRX9G0ruGYiwBum5sEHTmltk2gmaMdDctp-MQITVA==?uid=35512604&filename=Ya_logo_ing.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=35512604&fsize=4109&hid=232b7d6522b68bfc17eb8edf78a2cfee&media_type=image&tknv=v2&etag=3ac4b6635bab34c561876a747cfcb30a&rtoken=f8FJuVctPJz6&force_default=yes&ycrid=na-e0ccc87c662240fc61a2ab69325a9cad-downloader24f&ts=5e9e314e5b640&s=0a87c62548a369bf681d7139f556c6d78ada1730ba5d4753bc6fadf8b544d4d7&pb=U2FsdGVkX18T33yCJcQhI6pjSDWP-BgCCzX1ZAJrH5ozAajZvKyAIuLWshKl-b5Ai2SOOcIFbsA_vmi9Cdd96yJgZO2W-f1rltZejzuvmlU).
+from
+
+[![Yandex-Practicum.jpg](https://i.postimg.cc/J7JqPHzH/Yandex-Practicum.jpg)](https://postimg.cc/mhLCrDMT).
 
 The course program is aimed at a smooth study of the skills necessary for the work of an analyst, a consistent increase in the complexity of the topics studied
  and the tools used. This course prepared me to enter the path of data analysis, helped me master the skills necessary for work:
@@ -11,17 +11,7 @@ The course program is aimed at a smooth study of the skills necessary for the wo
 
 **The following libraries were used in the projects:**
 
-`numpy` \
-`pandas` \
-`scipy` \
-`matplotlib` \
-`plotly` \
-`seaborn` \
-`datetime` \
-`sys` \
-`io` \
-`requests` \
-`math`
+`numpy` `pandas` `scipy` `sqlalchemy` `matplotlib` `warnings` `plotly` `seaborn` `datetime` `sys` `io` `requests` `math` `sklearn` `itertools`
 
 ## Part 1. Introduction to the Data Analyst profession. Fundamentals of Python and Data Analysis
 
@@ -203,8 +193,8 @@ In the standalone project of this course, you work with a database that stores i
 
 *During the project were:*
 ___
-- various data unloading using SQL queries was performed;
-- сalculations of business indicators were made using SQL queries.
+- various data unloading using SQL queries;
+- Calculations of business indicators were made using SQL queries.
 
 ## Part 10.1: Advanced SQL
 
@@ -221,8 +211,7 @@ In the standalone project of this course, you work with the StackOverflow databa
 
 *During the project were:*
 ___
-- various data unloading using SQL queries.
-
+- Various data unloading using SQL queries and analysis of the results were performed.
 
 ## Part 11: Automation
 
@@ -235,13 +224,12 @@ ___
 ### Project: Creating a custom events dashboard for a news aggregator:
 
 Using Yandex.Zen data, a dashboard was built with metrics for user interaction with article cards.
-Work on this project was carried out on a remote machine in the Yandex.Cloud service.
 
 *During the project were:*
 ___
-- PostgreSQL installed, database deployed;
-- a pipeline script was written that allowed collecting data for a certain time period, and its offline work via crontab was configured;
-- to visualize the collected data, a dashboard script was written with several filters and also launched on a remote machine;
+- data was unloaded using SQL queries;
+- the data was analyzed and the file for the dashboard was saved in the `.csv` format;
+- for data visualization, a dashboard with several filters was created on the Tableu public platform;
 - Based on the results, a presentation was prepared with the resulting graphs.
 
 ## Part 12: Machine Learning Basics
@@ -259,14 +247,54 @@ Based on data on visitors to the network of fitness centers, the probability of 
 ___
 - predicted the probability of outflow (at the level of the next month) for each client;
 - typical portraits of users have been formed: the brightest groups have been identified, their main properties have been characterized;
-- Analyzed the main features that most strongly affect the outflow.
+- analyzed the main features that most strongly affect the outflow;
+- Suggested recommendations for the strategy of interaction with customers and their retention.
 
-## Part 13: Graduation project:
+## **Graduation project:**
 
-Based on all the data received in the course, a bootcamp project was completed in one of the *selected areas*:
+Based on all the data received in the course, a bootcamp project was completed in the field of "mobile applications":
 ___
-- banks;
-- retail;
-- games;
-- mobile applications;
-- e-commerce.
+
+**Topics covered:**
+1. Metrics and funnels.
+2. Cohort analysis.
+3. Unit economics.
+4. Custom metrics.
+1. Methods and tools for testing hypotheses.
+2. Design of experiments. Seasonality.
+2. Cohort analysis.
+3. A/B testing.
+Presentation of the results of the analytical study.
+Dashboards
+Part 1. **Identification of underperforming call center agents**:
+
+ Based on data containing information about call centers and their operators, the most inefficient / effective operators were found, and also checked
+ statistical hypotheses.
+ 
+*During the project were:*
+___
+- a review and pre-processing of data was carried out;
+- research data analysis was carried out;
+- inefficient operators are defined;
+- tested statistical hypotheses:
+  * outgoing calls of call-cents are more often missed than answered;
+  * with incoming calls, due to the long waiting time, they often do not wait for the appointment of an operator.
+
+Part 2. **Testing changes (A/B test) related to the introduction of an improved recommender system in an online store**:
+ 
+Based on data with user actions, terms of reference and several auxiliary datasets, the results of an A / B test of changes associated with the introduction of an improved recommender system for online store products were evaluated.
+ 
+*During the project were:*
+___
+- data review and data preprocessing;
+- an assessment of the correctness of the test and an exploratory analysis of the data was carried out;
+- A/B test analysis was carried out.
+
+Part 3. **SQL. Analysis of the database of the service for reading books by subscription**:
+
+The database containing information about books, publishing houses, authors, as well as user reviews of books was analyzed. Based on these data, value propositions for a new product are formulated.
+
+*During the project were:*
+___
+- researched database tables;
+- Various data unloading using SQL queries and analysis of the results were performed.
