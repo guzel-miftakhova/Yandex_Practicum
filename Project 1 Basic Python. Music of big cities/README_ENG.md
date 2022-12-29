@@ -38,3 +38,4 @@ The day of the week affects the activity of users in Moscow and St. Petersburg d
 Musical preferences do not change much during the week - be it Moscow or St. Petersburg.
 
 The tastes of Moscow and St. Petersburg users have more in common than differences.
+
