@@ -68,3 +68,9 @@ Not effective at all for 1 operator per call center, but there are also those wh
 2. Call duration:
     effectively operators: 246 people;
     - ineffective operators: 587 people.
+
+## Presentation and dashboard
+
+The presentation can be viewed at [link](https://disk.yandex.ru/i/H1ywfOoDWiS0Ig)
+
+The dashboard is hosted on [Tableau Public](https://public.tableau.com/views/-_16669659004100/-?:language=en-US&:display_count=n&:origin=viz_share_link)
