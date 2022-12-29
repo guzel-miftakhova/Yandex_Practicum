@@ -68,3 +68,9 @@
 2. Длительность звонка:
     эффективно операторов: 246 человек;
     - не эффективно операторов: 587 человек.
+    
+## Презентация и дашборд
+
+Презентацию можно посмотреть по [ссылке](https://disk.yandex.ru/i/H1ywfOoDWiS0Ig)
+
+Дашборд размещен на [Tableau Public](https://public.tableau.com/views/-_16669659004100/-?:language=en-US&:display_count=n&:origin=viz_share_link)
